@@ -1,0 +1,57 @@
+body {
+	margin: auto;
+}
+
+#title {
+	background-color: #edf2ef;
+	text-align: center;
+}
+
+#img-div {
+	margin:-5px;
+	margin-top:20px;
+  	width:100%;
+}
+
+.content {
+	margin: auto;
+	max-width: 50%;
+}
+
+.footer {
+	margin: auto;
+	max-width: 100%;
+	background-color: black;
+	color: white;
+
+}
+
+h1 {
+	padding-top: 20px;
+}
+
+image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+}
+					
+						
+						
+
+						
+
+						
+
+						
+						
+
+						
+
+						
+
+						
+
+						
+
