@@ -13,9 +13,13 @@ body {
   	width:100%;
 }
 
+.subhead {
+	padding: 10px;
+}
+
 .content {
 	margin: auto;
-	max-width: 50%;
+	max-width: 70%;
 }
 
 .footer {
@@ -36,22 +40,3 @@ image {
 	margin-right: auto;
 	width: auto;
 }
-					
-						
-						
-
-						
-
-						
-
-						
-						
-
-						
-
-						
-
-						
-
-						
-
